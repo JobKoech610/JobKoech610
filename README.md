@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Job koech
 
 
-**Turning Ideas into Elegant Digital Solutions.
+### Turning Ideas into Elegant Digital Solutions.
 
 
 - 🔭 I’m currently learning Data Structures using Python. 
