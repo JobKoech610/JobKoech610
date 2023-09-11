@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Job koech
 
-<!--
+
 **Turning Ideas into Elegant Digital Solutions.
 
 
@@ -24,4 +24,4 @@
   </a>
 </p>
 
--->
+
