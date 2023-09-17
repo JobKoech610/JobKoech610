@@ -8,7 +8,6 @@
 - 👯 I regularly write articles on https://medium.com/@jobjazy.  
 - 💬 Ask me about Javascript, Python
 - 📫 How to reach me: jobkoech610@gmail.com.
-- 😄 Pronouns:Mr 
 - ⚡ Fun fact: The first computer “bug” was discovered in 1947 in the form of a dead moth lodged in a Harvard Mark II computer, and it still persists today in the form of 0s and 1s. 
 
 ### Connect with me:
